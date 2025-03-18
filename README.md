@@ -60,7 +60,8 @@ php artisan db:seedphp artisan storage:link
 
 ## ER図
 
-![スクリーンショット (4)](https://github.com/user-attachments/assets/8bf9a6cd-ba29-4751-ba6e-2c8b59f2bdd9)
+![スクリーンショット (9)](https://github.com/user-attachments/assets/89b6412d-3eea-46ff-83a6-98431a26ba66)
+
 
 ## 使用技術(実行環境)
 - PHP8.3.0
