@@ -62,7 +62,8 @@ php artisan db:seedphp artisan storage:link
   - 任意の 3 桁の数字
 ## テーブル設計
 
-
+![スクリーンショット (7)](https://github.com/user-attachments/assets/15296a9c-0bfa-443f-aa17-66122f118971)
+![スクリーンショット (8)](https://github.com/user-attachments/assets/4eea7c36-02f3-4113-a2ed-48f50a5b45c5)
 
 ## ER図
 
