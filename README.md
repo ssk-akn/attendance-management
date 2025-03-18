@@ -53,13 +53,6 @@ php artisan db:seedphp artisan storage:link
 - 一般ユーザー
   - Email: user@example.com
   - Password: password123
-## 決済テスト用カード情報
-- クレジットカード番号
-  - 4242 4242 4242 4242
-- 有効期限
-  - 有効な将来の日付を使用
-- セキュリティコード
-  - 任意の 3 桁の数字
 ## テーブル設計
 
 ![スクリーンショット (7)](https://github.com/user-attachments/assets/15296a9c-0bfa-443f-aa17-66122f118971)
